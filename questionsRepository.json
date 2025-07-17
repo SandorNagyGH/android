@@ -78,5 +78,5 @@
   {"id":"77","qText":"Which country's flag is this?","options":["Kenya","South Africa","Estonia","Bhutan"],"correctAnswerIndex":1,"category":"General Knowledge","difficulty":"Easy","imageUrl":"https://i.postimg.cc/Tw4CtCHX/southafricanflag.jpg"},
   {"id":"78","qText":"Which country's flag is this?","options":["Paraguay","Nepal","Egypt","Italy"],"correctAnswerIndex":2,"category":"General Knowledge","difficulty":"Medium","imageUrl":"https://i.postimg.cc/2S9GkHrL/egyptianflag.jpg"},
   {"id":"79","qText":"Which country's flag is this?","options":["Peru","Singapore","Hungary","Italy"],"correctAnswerIndex":3,"category":"General Knowledge","difficulty":"Easy","imageUrl":"https://i.postimg.cc/43zYLdL4/italianflag.jpg"},
-  {"id":"80","qText":"Which country's flag is this?","options":["India","Nepal","Mongolia","Malta"],"correctAnswerIndex":0,"category":"General Knowledge","difficulty":"Easy","imageUrl":"https://i.postimg.cc/wTZ39JnT/indianflag.jpg"},
+  {"id":"80","qText":"Which country's flag is this?","options":["India","Nepal","Mongolia","Malta"],"correctAnswerIndex":0,"category":"General Knowledge","difficulty":"Easy","imageUrl":"https://i.postimg.cc/wTZ39JnT/indianflag.jpg"}
 ]
