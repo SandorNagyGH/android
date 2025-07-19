@@ -1,5 +1,5 @@
 [
-  {"id":"1","qText":"What is the capital of France?","options":["Berlin","Madrid","Paris","Rome"],"correctAnswerIndex":2,"category":"General Knowledge","difficulty":"Easy","imageUrl":"https://i.postimg.cc/ydf8LYxP/placeholder1.jpg"},
+  {"id":"1","qText":"What is the capital of France?","options":["Berlin","Madrid","Paris","Rome"],"correctAnswerIndex":2,"category":"General Knowledge","difficulty":"Easy","imageUrl":"https://i.postimg.cc/4ybkmGtH/eiffel.jpg"},
   {"id":"2","qText":"Which planet is known as the Red Planet?","options":["Earth","Mars","Jupiter","Venus"],"correctAnswerIndex":1,"category":"General Knowledge","difficulty":"Easy","imageUrl":"https://i.postimg.cc/Dyj0qBMC/mars.jpg"},
   {"id":"3","qText":"What day of the year is known by fans as Star Wars Day?","options":["Jan 11th","Dec 1st","Oct 16th","May 4th"],"correctAnswerIndex":3,"category":"General Knowledge","difficulty":"Easy","imageUrl":"https://i.postimg.cc/ZnFSwKHP/starwars.jpg"},
   {"id":"4","qText":"What type of creature does Luke Skywalker fight underneath Jabba the Hutt's throne in Return of the Jedi?","options":["A Rancor","A Lion","An Ant","A Dinosaur"],"correctAnswerIndex":0,"category":"General Knowledge","difficulty":"Easy","imageUrl":"https://i.postimg.cc/ydf8LYxP/placeholder1.jpg"},
